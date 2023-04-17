@@ -9,6 +9,10 @@
 </head>
 <body>
 
+<?php
+// show($user->errors);
+?>
+
 	
 	<section class="class_1" >
 		<div class="class_2" >
@@ -77,7 +81,7 @@
 			</div>
 			<div class="class_9" >
 				<label class="class_10"  >
-					R required=""etype Password *
+					Retype Password *
 				</label>
 				<input placeholder="" required="" type="password" name="retype_password" class="class_11"  >
 			</div>

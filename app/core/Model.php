@@ -248,7 +248,7 @@ Trait Model
 							break;
 						
 						default:
-							$this->errors['rules'] = "The rule ". $rule . " was not found!";
+							
 							break;
 					}
 					if(preg_match("/^same_as_/", $rule)) {

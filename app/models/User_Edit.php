@@ -25,6 +25,8 @@ class User_Edit
 		'password',
 		'role',
 		'date',
+		'bio',
+		'image',
 	];
 
 	/*****************************

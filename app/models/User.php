@@ -25,6 +25,9 @@ class User
 		'password',
 		'role',
 		'date',
+		'bio',
+		'image',
+		'slug',
 	];
 
 	/*****************************

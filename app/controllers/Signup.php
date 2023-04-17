@@ -13,6 +13,8 @@ class Signup
 
 	public function index()
 	{
+		// message('Signup is temporarily unavailable');
+		// redirect('login');
 
 		$data['user'] = new \Model\User;
 		$req = new \Core\Request;
